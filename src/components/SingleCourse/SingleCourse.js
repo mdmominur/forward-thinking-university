@@ -26,7 +26,7 @@ const SingleCourse = (props) => {
                         <p className="mt-1 mb-1 custom-font-size">{description.slice(0,50)}...</p>
                         <div className="d-flex justify-content-between custom-font-size">
                             <Link to="/" className="text-success d-inline-block text-decoration-none"> See More </Link>
-                            <span className='d-inline-block duration text-success custom-font-size'><i className="far fa-clock"></i> {duration}</span>
+                            <span className='d-inline-block duration text-success custom-font-size fw-bold'><i className="far fa-clock"></i> {duration}</span>
                         </div>
                     </div>
                 </div>

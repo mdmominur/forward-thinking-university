@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <div className="bg-success shadow rounded text-light py-3 text-center" >
-                copyright all rights reserved.
+                Forward Thinking University © 2021
             </div>
         );
     }

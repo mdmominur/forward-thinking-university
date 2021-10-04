@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import SingleCourse from '../SingleCourse/SingleCourse';
 import SingleEvent from '../SingleEvents/SingleEvent';
 
@@ -14,13 +15,16 @@ const Home = () => {
     useEffect(()=>{
         fetch('/events.json')
         .then(res => res.json())
-        .then(data => setEvents((data)));
+        .then(data => setEvents((data.slice(0,4))));
     },[]);
     return (
-        <main className="min-vh-100">
+        <div className="min-vh-100">
             <div className="container">
                 <div className="shadow my-4 rounded p-4">
-                    <h1 className="text-success">Events</h1>
+                    <Link to="/events" className="text-decoration-none">
+                        <h1 className="text-success ">Events</h1>
+                    
+                    </Link>
                     <Row className="gy-5">
                         {
                             events.map(event => <SingleEvent key={event.id} event={event}></SingleEvent>)
@@ -31,7 +35,10 @@ const Home = () => {
 
             <div className="container">
                 <div className="shadow my-4 rounded p-4">
+                <Link to="/courses" className="text-decoration-none">
                     <h1 className="text-success">Courses</h1>
+
+                </Link>
                     <Row className="gy-5">
                         {
                             courses.map(course => <SingleCourse key={course.id} course={course}></SingleCourse>)
@@ -40,7 +47,7 @@ const Home = () => {
                 </div>
             </div>
 
-        </main>
+        </div>
     );
 };
 
