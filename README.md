@@ -1,10 +1,7 @@
 # Getting Started with Forward Thinking University Web app
 
-Website Link: (https://github.com/facebook/create-react-app).
+Website Link: https://forward-thinking-university-mominur.netlify.app/
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `Courses`
 
