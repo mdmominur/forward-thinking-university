@@ -1,0 +1,12 @@
+.bg-custom{
+    background-color: rgb(255 238 207);
+}
+
+.duration{
+    border: 1px solid #198754;
+    padding: 2px 15px;
+    border-radius: 15px;
+}
+.custom-font-size{
+    font-size: 14px;
+}

@@ -1,0 +1,67 @@
+[{
+    "id": 1,
+    "name": "Chicago Architecture Foundation River Cruise",
+    "startTime": "September 22, 2022 - 8:00 am",
+    "endTime": "September 22, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "John Doe",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2015/08/DFC_71879331-chicago-river-cruise-263x263.jpg"
+}, {
+    "id": 2,
+    "name": "Good Morning America",
+    "startTime": "September 25, 2022 - 8:00 am",
+    "endTime": "September 25, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "Anthony Lee",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2015/08/iStock_000027500935_Large-263x263.jpg"
+}, {
+    "id": 3,
+    "name": "Student Exchange Program Information Sessions",
+    "startTime": "September 22, 2022 - 8:00 am",
+    "endTime": "September 22, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "John Doe",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2014/05/DFC_82066298-student-exchange-263x263.jpg"
+}, {
+    "id": 4,
+    "name": "Vegie Garden Wednesday Workshops",
+    "startTime": "September 22, 2022 - 8:00 am",
+    "endTime": "September 22, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "John Doe",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2014/03/university-event-004-263x263.jpg"
+}, {
+    "id": 5,
+    "name": "The Ecosystem Within Us",
+    "startTime": "September 22, 2022 - 8:00 am",
+    "endTime": "September 22, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "John Doe",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2014/10/portfolio-011-263x263.jpg"
+}, {
+    "id": 6,
+    "name": "Science In The New Era",
+    "startTime": "September 22, 2022 - 8:00 am",
+    "endTime": "September 22, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "John Doe",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2014/03/university-event-004-263x263.jpg"
+}, {
+    "id": 7,
+    "name": "How To Sell Anything",
+    "startTime": "September 22, 2022 - 8:00 am",
+    "endTime": "September 22, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "John Doe",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2014/03/DFC_76265435-sell-anything-263x263.jpg"
+},
+{
+    "id": 8,
+    "name": "Good Morning America",
+    "startTime": "September 25, 2022 - 8:00 am",
+    "endTime": "September 25, 2022 - 8:00 am",
+    "address": "Bentley Campus, Perth, WA",
+    "speaker": "Anthony Lee",
+    "imgUrl": "https://university.cactusthemes.com/wp-content/uploads/2015/08/iStock_000027500935_Large-263x263.jpg"
+}
+]
